@@ -7,5 +7,5 @@ student = {
         return this.firstName + " " + this.lastName + "\n" + this.enrollmentNo + "\n" + this.studentAge;
     }
 };
-console.log('The student details are:');
+console.log('The student Inforation:');
 console.log(student.studentInfo());
