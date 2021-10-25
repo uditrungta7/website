@@ -1,8 +1,8 @@
 student = {
-    firstName: 'Udit',
-    lastName: 'Rungta',
-    studentAge: 20,
-    enrollmentNo: 'A2305218009',
+    firstName: 'Avneesh',
+    lastName: 'Singh',
+    studentAge: 23,
+    enrollmentNo: 'A2305218462',
     studentInfo: function(){
         return this.firstName + " " + this.lastName + "\n" + this.enrollmentNo + "\n" + this.studentAge;
     }
